@@ -16,10 +16,10 @@ Capture windows with apps image
 Gimagex GImageX Download - Graphical user interface for the ImageX (informer.com)
 ImageX wimlib - Downloads
 Dism use command dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:ma
-Using dism command guide youtube: Create Custom Windows 10 Image With Applications Pre-installed (youtube.com)
+Using dism command guide youtube: https://www.youtube.com/watch?v=-tIO4B8q8sk
 Edit iso
-Imgburn  <a href="The Official ImgBurn Website">Imgburn</a>
-Poweriso <a href="https://www.poweriso.com">poweriso</a>
+Imgburn  <a href="https://www.imgburn.com/index.php?act=download">Imgburn</a>
+Poweriso <a href="https://www.poweriso.com/download.htm">poweriso</a>
  
 I using virtualbox, windows 10 x64, hirens boot cd, Gimagex, Imgburn
 I want to install winrar 7zip office for example
