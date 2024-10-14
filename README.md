@@ -46,6 +46,7 @@ Windows-10-with-apps-pre-installed
 <p>press on MediaCreationTool.exe 2 times to start the program</p>
 <p>accept the license agreement: press accept</p>
 <p>after this wait a bit then choose from the options present to you the option "Create installation media (USB flash drive, DVD, or ISO) for another PC" then click "next"</p>
+<img src="./pictures/windows 10 setup what to do.PNG">
 <p>in the next window Select the language, architecture (x32/x64.both), and edition of Windows, you want then click "next" then click "ok"</p>
 <p>in the next window Select ISO file give it a name and a path/location (where to save it) then click "next"</p>
 <p>then the tool will create your ISO file for you</p>
