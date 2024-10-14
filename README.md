@@ -11,6 +11,7 @@ Windows-10-with-apps-pre-installed
 <p>This guide was inspired by video: https://www.youtube.com/watch?v=81yIxQ1RdiM</p>
 <p>We use virtual machine in this guide</p>
 <p>Check that virtualization is enabled in the bios on your computer <a href="https://www.isumsoft.com/computer-tweaks/enable-virtualization-technology-vt-x-in-bios-or-uefi.html">enabled virtualization on bios</a></p>
+<a href="https://www.technewstoday.com/how-to-enable-virtualization-in-bios/">Check enabled virtualization on bios</a>
 <h2>Software you need</h2>
 <h2>Download according to you'r pc and os</h2>
 <h2>virtual machine</h2>
