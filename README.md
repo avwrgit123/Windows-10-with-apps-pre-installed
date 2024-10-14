@@ -73,6 +73,15 @@ in the version choose windows 10 then click next</p>
 <p>in the windows that open choose amount of hdd to machine then click next</p>
 <p>don't click on "pre allocate full size"-if you do it it take the amount from you'r physical hdd</p>
 <img src="./pictures/‏‏virtual box amount of hdd.PNG">
-    
+<p>now the machine is created</p>
+<p>you can edit the machine: right click on the mouse and choose setting beteen the options, cleeck on setting</p>
+<img src="">
+<p>in setting go to boot make shoore on boot options "optical" and "hard disk" options are marked</p>
+<p>move choose optical and move it above hard disk using the arrows</p>
+<p>boot options tell the machine the order of boot sequence</p>
+<p>optical option boot the machine from cd or iso</p>
+<p>hard disk option boot the machine from hard disk</p>
+<img src="">
+
 </body>
 </html>
