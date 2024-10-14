@@ -55,6 +55,7 @@ Windows-10-with-apps-pre-installed
 <p>then the tool will create your ISO file for you</p>
 <p>guide: <a href="https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705">guide</a></p>
 <p>when the creation of windows iso is finish you see a windows.iso file in the location you choose</p>
+<p>3.create a virtual machine</p>
 <h2>create a virtual machine</h2>
 <p>start virtual box 2 clicks on virualbox shortcut</p>
 <img src="./pictures/‏‏virtual box home screen.PNG">
