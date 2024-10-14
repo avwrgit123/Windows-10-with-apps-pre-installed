@@ -47,10 +47,10 @@ Windows-10-with-apps-pre-installed
 <p>accept the license agreement: press accept</p>
 <p>after this wait a bit then choose from the options present to you the option "Create installation media (USB flash drive, DVD, or ISO) for another PC" then click "next"</p>
 <img src="./pictures/‏‏windows 10 setup what to do.PNG">
-<img src="./pictures/‏‏‏‏windows 10 setup Select the language, architecture edition.PNG">
 <p>in the next window Select the language, architecture (x32/x64.both), and edition of Windows, you want then click "next" then click "ok"</p>
-<img src="./pictures/windows 10 setup Choose wich media to use.PNG">
+<img src="./pictures/‏‏‏‏windows 10 setup Select the language, architecture edition.PNG">
 <p>in the next window Select ISO file give it a name and a path/location (where to save it) then click "next"</p>
+<img src="./pictures/windows 10 setup Choose wich media to use.PNG">
 <img src="./pictures/‏‏windows 10 setup choose where to save.PNG">
 <p>then the tool will create your ISO file for you</p>
 <p>guide: <a href="https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705">"guide</a></p>
