@@ -4,7 +4,7 @@ In this guide we install windows 10 with apps pre installed of your choose
 This guide was inspired by video https://www.youtube.com/watch?v=81yIxQ1RdiM
 We use virtual machine in this guide
 Software you need
-Download according to you'r pc and os
+<h2>Download according to you'r pc and os</h2>
 virtual machine
 virtualbox Downloads – Oracle VirtualBox
 vmware Downloading and installing VMware Workstation Player (broadcom.com)
@@ -18,8 +18,8 @@ ImageX wimlib - Downloads
 Dism use command dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:ma
 Using dism command guide youtube: Create Custom Windows 10 Image With Applications Pre-installed (youtube.com)
 Edit iso
-Imgburn The Official ImgBurn Website
-Poweriso PowerISO - Create, Burn, Mount, Edit, Compress, Encrypt, Split, Extract ISO file, ISO/BIN converter, Virtual Drive, DAA File
+Imgburn  <a href"The Official ImgBurn Website">Imgburn</a>
+Poweriso <a href"PowerISO - Create, Burn, Mount, Edit, Compress, Encrypt, Split, Extract ISO file, ISO/BIN converter, Virtual Drive, DAA File">poweriso</a>
  
 I using virtualbox, windows 10 x64, hirens boot cd, Gimagex, Imgburn
 I want to install winrar 7zip office for example
