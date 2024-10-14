@@ -29,11 +29,16 @@ Windows-10-with-apps-pre-installed
 <h2>Edit iso</h2>
 <p>Imgburn  <a href="https://www.imgburn.com/index.php?act=download">Imgburn</a></p>
 <p>Poweriso <a href="https://www.poweriso.com/download.htm">poweriso</a></p>
+<h2>Extract</h2>
+<p>7zip <a href="https://www.7-zip.org/download.html">7zip</a></p>
+<p>winrar <a href="https://www.rarlab.com/download.htm">winrar</a></p>
  
 <p>I using virtualbox, windows 10 x64, hirens boot cd, Gimagex, Imgburn</p>
 <p>I want to install winrar 7zip office for example</p>
+<p>This guide create custom windows 10 on windows os</p>
 <p>1. Download and Install virtualbox and Imgburn on your pc</p>
 <p>2. Download Gimagex and windows 10 iso</p>
+<p>Extract Gimagex fut the exe file in usb using 7zip or winrar</p>
 <h3>How to download windows 10 iso</h3>
 <p>Press downloads on Create Windows 10 installation media it download MediaCreationTool.exe</p>
 
