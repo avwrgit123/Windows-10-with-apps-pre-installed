@@ -31,7 +31,7 @@ Windows-10-with-apps-pre-installed
 <p>Poweriso <a href="https://www.poweriso.com/download.htm">poweriso</a></p>
 <h2>Extract</h2>
 <p>7zip <a href="https://www.7-zip.org/download.html">7zip</a></p>
-<p>winrar <a href="https://www.rarlab.com/download.htm">winrar</a></p>
+<p>winrar <a href="https://www.win-rar.com/download.html?&L=0">winrar</a></p>
  
 <p>I using virtualbox, windows 10 x64, hirens boot cd, Gimagex, Imgburn</p>
 <p>I want to install winrar 7zip office for example</p>
