@@ -19,7 +19,7 @@ Dism use command dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir
 Using dism command guide youtube: Create Custom Windows 10 Image With Applications Pre-installed (youtube.com)
 Edit iso
 Imgburn  <a href="The Official ImgBurn Website">Imgburn</a>
-Poweriso <a href="PowerISO - Create, Burn, Mount, Edit, Compress, Encrypt, Split, Extract ISO file, ISO/BIN converter, Virtual Drive, DAA File">poweriso</a>
+Poweriso <a href="https://www.poweriso.com">poweriso</a>
  
 I using virtualbox, windows 10 x64, hirens boot cd, Gimagex, Imgburn
 I want to install winrar 7zip office for example
