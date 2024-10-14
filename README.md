@@ -7,11 +7,11 @@ Windows-10-with-apps-pre-installed
     <title>Document</title>
 </head>
 <body>
-<p>In this guide we install windows 10 with apps pre installed of your choose
-*note after this guide you create a custom windows 10 contain on version apps your choose with to install.</p>
-<p>This guide was inspired by video https://www.youtube.com/watch?v=81yIxQ1RdiM
-We use virtual machine in this guide
-Check that virtualization is enabled in the bios on your computer</p>
+<p>In this guide we install windows 10 with apps pre installed of your choose</p>
+<p>*note after this guide you create a custom windows 10 contain on version apps your choose with to install.</p>
+<p>This guide was inspired by video: https://www.youtube.com/watch?v=81yIxQ1RdiM</p>
+<p>We use virtual machine in this guide</p>
+<p>Check that virtualization is enabled in the bios on your computer</p>
 <h2>Software you need</h2>
 <h2>Download according to you'r pc and os</h2>
 <h2>virtual machine</h2>
@@ -24,8 +24,8 @@ Check that virtualization is enabled in the bios on your computer</p>
 <h2>Capture windows with apps image</h2>
 <p>Gimagex <a href="https://gimagex.software.informer.com/2.0/">Gimagex</a></p>
 <p>ImageX <a href="https://wimlib.net/downloads/index.html">ImageX</a></p>
-Dism use command dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:ma
-Using dism command guide youtube: https://www.youtube.com/watch?v=-tIO4B8q8sk
+<p>Dism use command dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:max</p>
+<p>Using dism command guide youtube: https://www.youtube.com/watch?v=-tIO4B8q8sk</p>
 <h2>Edit iso</h2>
 <p>Imgburn  <a href="https://www.imgburn.com/index.php?act=download">Imgburn</a></p>
 <p>Poweriso <a href="https://www.poweriso.com/download.htm">poweriso</a></p>
