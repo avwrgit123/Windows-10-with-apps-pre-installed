@@ -60,8 +60,17 @@ Windows-10-with-apps-pre-installed
 <img src="./pictures/‏‏virtual box home screen.PNG">
 <p>press new it create new machine</p>
 <img src="./pictures/‏‏virtual box press new.PNG"
-
-
-
+<p>in the windows that open give name to the machine,
+choose were to save it-live it on default on windows is usely on C:\Users\your user\VirtualBox VMs,
+don't select iso file we do this later
+choose a type:windows
+in the version choose windows 10 then click next</p>
+<img src="./pictures/‏‏virtual box give name to machine"
+<p>in the windows that open choose amount of ram to machine and amount of cpu to machine then click next</p>
+<img src="./pictures/‏‏virtual box amount of ram and amount of cpu"
+<p>in the windows that open choose amount of hdd to machine then click next</p>
+<p>don't click on "pre allocate full size-if you do it it take the amount from you'r physical hdd"</p>
+<img src="./pictures/‏‏virtual box amount of hdd"
+    
 </body>
 </html>
