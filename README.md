@@ -37,7 +37,7 @@ Windows-10-with-apps-pre-installed
 <p>This guide create custom windows 10 on windows os</p>
 <p>1. Download and Install virtualbox and Imgburn on your pc</p>
 <p>2. Download Gimagex and windows 10 iso</p>
-<p>Extract Gimagex fut the exe file in usb using 7zip or winrar</p>
+<p>Extract Gimagex put the exe file in usb using 7zip or winrar</p>
 
 <h3>How to download windows 10 iso</h3>
 <p>Press downloads on Create Windows 10 installation media it download MediaCreationTool.exe</p>
