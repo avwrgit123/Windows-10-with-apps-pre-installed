@@ -8,8 +8,8 @@ Windows-10-with-apps-pre-installed
 </head>
 <body>
 <p>In this guide we install windows 10 with apps pre installed of your choose
-*note after this guide you create a custom windows 10 contain on version apps your choose with to install
-This guide was inspired by video https://www.youtube.com/watch?v=81yIxQ1RdiM
+*note after this guide you create a custom windows 10 contain on version apps your choose with to install.</p>
+<p>This guide was inspired by video https://www.youtube.com/watch?v=81yIxQ1RdiM
 We use virtual machine in this guide
 Check that virtualization is enabled in the bios on your computer</p>
 <h2>Software you need</h2>
