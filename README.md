@@ -23,7 +23,7 @@ Windows-10-with-apps-pre-installed
 <h2>Capture windows with apps image</h2>
 <p>Gimagex <a href="https://gimagex.software.informer.com/2.0/">Gimagex</a></p>
 <p>ImageX <a href="https://wimlib.net/downloads/index.html">ImageX</a></p>
-<p>Dism use command dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:max</p>
+<p>Dism use command: dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:max</p>
 <p>Using dism command guide youtube: https://www.youtube.com/watch?v=-tIO4B8q8sk</p>
 <h2>Edit iso</h2>
 <p>Imgburn  <a href="https://www.imgburn.com/index.php?act=download">Imgburn</a></p>
