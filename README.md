@@ -67,10 +67,10 @@ choose a type:windows
 in the version choose windows 10 then click next</p>
 <img src="./pictures/‏‏virtual box give name to machine"
 <p>in the windows that open choose amount of ram to machine and amount of cpu to machine then click next</p>
-<img src="./pictures/‏‏virtual box amount of ram and amount of cpu"
+<img src="./pictures/‏‏virtual box amount of ram and amount of cpu.PNG"
 <p>in the windows that open choose amount of hdd to machine then click next</p>
 <p>don't click on "pre allocate full size-if you do it it take the amount from you'r physical hdd"</p>
-<img src="./pictures/‏‏virtual box amount of hdd"
+<img src="./pictures/‏‏virtual box amount of hdd.PNG"
     
 </body>
 </html>
