@@ -65,7 +65,7 @@ choose were to save it-live it on default on windows is usely on C:\Users\your u
 don't select iso file we do this later
 choose a type:windows
 in the version choose windows 10 then click next</p>
-<img src="./pictures/‏‏virtual box give name to machine.PNG">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fvirtual%20box%20give%20name%20to%20machine.PNG">
 <p>in the windows that open choose amount of ram to machine and amount of cpu to machine then click next</p>
 <img src="./pictures/‏‏virtual box amount of ram and amount of cpu.PNG">
 <p>in the windows that open choose amount of hdd to machine then click next</p>
