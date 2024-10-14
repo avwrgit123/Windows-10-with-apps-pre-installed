@@ -38,6 +38,8 @@ Windows-10-with-apps-pre-installed
 <p>1. Download and Install virtualbox and Imgburn on your pc</p>
 <p>2. Download Gimagex and windows 10 iso</p>
 <p>Extract Gimagex fut the exe file in usb using 7zip or winrar</p>
+<img src="./pictures/Windows 10 installation media download.PNG">
+<img src="./pictures/MediaCreationTool.PNG">
 <h3>How to download windows 10 iso</h3>
 <p>Press downloads on Create Windows 10 installation media it download MediaCreationTool.exe</p>
 
