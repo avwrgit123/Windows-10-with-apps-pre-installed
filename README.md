@@ -20,7 +20,7 @@ Check that virtualization is enabled in the bios on your computer</p>
 <h2>windows 10</h2>
 <p>windows 10 <a href="https://www.microsoft.com/en-us/software-download/windows10?msockid=017162c851b66f9e00e271f850266e87">windows 10</a></p>
 <h2>windows pe</h2>
-hirens boot cd Hiren's BootCD PE (hirensbootcd.org)
+<p>hirens boot cd <a href="https://www.hirensbootcd.org/download/">hirens boot cd</a></p>
 <h2>Capture windows with apps image</h2>
 <p>Gimagex <a href="https://gimagex.software.informer.com/2.0/">Gimagex</a></p>
 <p>ImageX <a href="https://wimlib.net/downloads/index.html">ImageX</a></p>
