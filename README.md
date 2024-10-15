@@ -55,6 +55,7 @@ Windows-10-with-apps-pre-installed
 <img src="./pictures/windows 10 setup Choose wich media to use.PNG">
 <img src="./pictures/‏‏windows 10 setup choose where to save.PNG">
 <p>then the tool will create your ISO file for you</p>
+<p>when it finish click finish and it close the MediaCreationTool.exe</p>
 <p>guide: <a href="https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705">guide</a></p>
 <p>when the creation of windows iso is finish you see a windows.iso file in the location you choose</p>
 <p>3. Create a virtual machine</p>
