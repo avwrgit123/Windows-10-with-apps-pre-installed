@@ -132,7 +132,8 @@ in the version choose windows 10 then click next</p>
 <p>what is system preparation tool? explaine in this article https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--generalize--a-windows-installation?view=windows-11</p>
 <p>the system preparation tool is usuly in location: C:/windows/system32/sysprep/sysprep.exe</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fsystem%20preparation%20tool.PNG">
-
+<p>now turn off the machine press x in the windows of the machine then open a menu mark "power off the machine" and press "ok"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fpower%20off%20windows%2010%20machine.PNG">
 
 
 <p></p>
