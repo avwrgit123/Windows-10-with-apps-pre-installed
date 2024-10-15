@@ -97,11 +97,22 @@ in the version choose windows 10 then click next</p>
 <p>the installation program start choose your installation language, time zone, keyboard language then click "next"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20configre%20install.PNG">
 <p>after this on the windows that open click the Install now button</p>
-<img src="">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/windows%2010%20install%20now.PNG">
 <p>after this this on the windows that open you will be prompted to enter the Windows 10 Product Key</p>
 <p>you can click on the option that says I don’t have a product key and skip entering product key</p>
-<img src="">
-<p></p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20produck%20key.PNG">
+<p>after this on the windows that open choose a version to install</p>
+<p>i choose windows 10 pro then click "next"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20choos%20version%20to%20install.PNG">
+<p>after this on the windows that open accept terms of use mark the option "i accept the license terms" then click "next"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20terms%20of%20use%20accept.PNG">
+<p>after this on the windows that open click on custom install</p>
+<p>update this option upgrade a working windows 10 when it run to ths version</p>
+<p>custom install this option install fresh windows on the hard drive</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20custom%20install.PNG">
+
+
+
 <p>guide <a href="https://techwiser.com/how-to-install-windows-10-in-virtualbox/">guide</a></p>
 
 </body>
