@@ -153,7 +153,8 @@ in the version choose windows 10 then click next</p>
 <p>inside storage you see the new hdd you created</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20hdd%20success.PNG">
 <p>press "ok" in buton of the setting menu to save you'r changes</p>
-<p>10. add HBCD_PE_x64.iso that you download to the cd choose the location the file located</p>
+<p>10. add windows pe that you download to the cd choose the location the file located</p>
+<p>the windows pe called HBCD_PE_x64.iso</p>
 <p>11. run the machine</p>
 <p>12. you see on the screen a massage: press any key to boot from cd or dvd</p>
 <p>it appears for a few seconds</p>
