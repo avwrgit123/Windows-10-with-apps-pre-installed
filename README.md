@@ -161,6 +161,40 @@ in the version choose windows 10 then click next</p>
 <p>press any key on the keyboard</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/press%20any%20key%20to%20boot%20from%20cd%20or%20dvd%20massage.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/press%20any%20key%20to%20boot%20from%20cd%20or%20dvd%20massage2.PNG">
+<p>it enter windows pe iso</p>
+<p>13. extract Gimagex according to your windows version copy it to a usb</p>
+<p>14. connect the usb to the machine</p>
+<p>on the up of the machine window you see device press on it press usb and press on your usb</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20usb%20hdd%20to%20machine.PNG">
+<p>copy the Gimagex from the usb to windows pe</p>
+<p>i copy Gimagex to desktop</p>
+<p>15. let's copy Gimagex to the new hdd we created</p>
+<h2>copy Gimagex to the new hdd we created</h2>
+<p>remmber the new hdd we createt not active it not show up on windows pe</p>
+<p>to active it press start (windows symbol) stand on this pc with the mouse press right click on the mouse press left on the mouse and on manage</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/this%20pc%20manage.PNG">
+<p>from thier let's press disk management</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/press%20disk%20management.PNG">
+<p>open a window ask you to configare the disk to mbr or gpt and press "ok"</p>
+<p>it depend of your bios what it support</p>
+<img src ="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/disk%20configoration%20mbr%20or%20gpt.PNG">
+<p>i choose gpt</p>
+<img src ="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/disk%20configoration%20choose%20gpt.PNG">
+<p></p>
+<p></p>
+<p></p>
+<p>i copy Gimagex to the new hdd we created</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
