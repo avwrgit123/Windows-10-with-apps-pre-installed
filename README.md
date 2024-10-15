@@ -94,6 +94,15 @@ in the version choose windows 10 then click next</p>
 <h2>install windows 10 on virtual box machine</h2>
 <p>on the main menu click 2 times on the machine or click 1 times on the machine and click start</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fvirtual%20box%20start%20the%20machine.PNG">
+<p>the installation program start choose your installation language, time zone, keyboard language then click "next"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20configre%20install.PNG">
+<p>after this on the windows that open click the Install now button</p>
+<img src="">
+<p>after this this on the windows that open you will be prompted to enter the Windows 10 Product Key</p>
+<p>you can click on the option that says I don’t have a product key and skip entering product key</p>
+<img src="">
+<p></p>
+<p>guide <a href="https://techwiser.com/how-to-install-windows-10-in-virtualbox/">guide</a></p>
 
 </body>
 </html>
