@@ -118,25 +118,43 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20option%20to%20restart%20after%20installing.PNG">
 <p>now you get a screens to configure the region, keyboard layout and more</p>
 <p>guide <a href="https://techwiser.com/how-to-install-windows-10-in-virtualbox/">guide</a></p>
+<p>5. enter default administrator account before create a user</p>
 <p>now press ctrl+shift+f3 keys together it enter you to a default administrator account in pre install system- oobe</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fctrl%2Bshift%2Bf3%20keys.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20default%20administrator%20account.PNG">
 <p>on administrator account you install the softwares you want</p>
+<p>6. install softwares on windows 10</p>
 <p>now i show you the control panel before i install any softwares</p>
 <p>search control panel on the search bar and click control panel it open a window called control pannell</p>
 <p>on control panel you see programs and under it you see uninstall a program click on "uninstall a program"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fcontrol%20panel%20befor%20i%20install%20any%20softwares.PNG">
 <p>i install some softwares and show you the control panel after i install any softwares</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fcontrol%20panel%20after%20i%20install%20softwares.PNG">
+<p>7. exit default administrator account using system preparation tool</p>
 <p>now press on the window system preparation tool on "ok" the windows restart to before you enter default administrator account</p>
 <p>what is system preparation tool? explaine in this article https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--generalize--a-windows-installation?view=windows-11</p>
 <p>the system preparation tool is usuly in location: C:/windows/system32/sysprep/sysprep.exe</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fsystem%20preparation%20tool.PNG">
+<p>8. after this turn off the machine</p>
 <p>now turn off the machine press x in the windows of the machine then open a menu mark "power off the machine" and press "ok"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fpower%20off%20windows%2010%20machine.PNG">
+<p>9. letss add another hdd to the machine</p>
+<h2>dd another hdd to the machine</h2>
+<p>do this when the machine is off</p>
+<p>go to setting of the machine to storage press right click on the mouse on "controller: sata" choose hard disk then press left click on the mouse</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/controller%20sata%20choose%20hard%20disk.PNG">
+<p>choose create new hdd and press "next"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/create%20new%20hdd.PNG">
+<p>choose vdi between the options</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/vdi%20hdd.PNG">
+<p>give it a size and press "ok"</p>
+<p>choose witch hdd to attach to machine mark it and press choose</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/choose%20new%20hdd%20to%20machine.PNG">
+<p>inside storage you see the new hdd you created</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20hdd%20success.PNG">
+<p>press "ok" in buton of the setting menu to save you'r changes</p>
 
 
-<p></p>
 
 </body>
 </html>
