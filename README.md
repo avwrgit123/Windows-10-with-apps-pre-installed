@@ -188,7 +188,7 @@ in the version choose windows 10 then click next</p>
 <p>stand on it press right click on the mouse a menu open up</p>
 <p>press "new simple volume"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/new%20simple%20volume.PNG">
-<p>a menu open up give it the default press "next" and to start the proses on the last windows press finish</p>
+<p>a menu open up give it the default press "next" and to start the proses on the last windows press "finish"</p>
 <p>if the proses succseed you see the hdd color change to blue</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/after%20active%20the%20hdd%20success.PNG">
 <p>i copy Gimagex to the new hdd we created</p>
