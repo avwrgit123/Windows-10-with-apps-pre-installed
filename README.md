@@ -118,7 +118,7 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20option%20to%20restart%20after%20installing.PNG">
 <p>now you get a screens to configure the region, keyboard layout and more</p>
 <p>guide <a href="https://techwiser.com/how-to-install-windows-10-in-virtualbox/">guide</a></p>
-<p>now press ctrl+shift+f3 keys together it enter you to a default administrator account in ore install system- oobe</p>
+<p>now press ctrl+shift+f3 keys together it enter you to a default administrator account in pre install system- oobe</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fctrl%2Bshift%2Bf3%20keys.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20default%20administrator%20account.PNG">
 <p>on administrator account you install the softwares you want</p>
@@ -127,6 +127,11 @@ in the version choose windows 10 then click next</p>
 <p>on control panel you see programs and under it you see uninstall a program click on "uninstall a program"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fcontrol%20panel%20befor%20i%20install%20any%20softwares.PNG">
 <p>i install some softwares and show you the control panel after i install any softwares</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fcontrol%20panel%20after%20i%20install%20softwares.PNG">
+<p>now press on the window system preparation tool on "ok" the windows restart to before you enter default administrator account</p>
+<p>what is system preparation tool? explaine in this article https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--generalize--a-windows-installation?view=windows-11</p>
+<p>the system preparation tool is usuly in location: C:/windows/system32/sysprep/sysprep.exe</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fsystem%20preparation%20tool.PNG">
 
 
 
