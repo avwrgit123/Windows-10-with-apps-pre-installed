@@ -110,10 +110,27 @@ in the version choose windows 10 then click next</p>
 <p>update this option upgrade a working windows 10 when it run to ths version</p>
 <p>custom install this option install fresh windows on the hard drive</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20custom%20install.PNG">
-
-
-
+<p>after this on the windows that open choose the hdd to install windows 10 on it then click "next"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20choose%20a%20hdd.PNG">
+<p>after this on the windows that open windows 10 start to install on the hard drive"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20installing%20on%20hdd.PNG">
+<p>when the installation is over the pc automatically restart</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20option%20to%20restart%20after%20installing.PNG">
+<p>now you get a screens to configure the region, keyboard layout and more</p>
 <p>guide <a href="https://techwiser.com/how-to-install-windows-10-in-virtualbox/">guide</a></p>
+<p>now press ctrl+shift+f3 keys together it enter you to a default administrator account in ore install system- oobe</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fctrl%2Bshift%2Bf3%20keys.PNG">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fwindows%2010%20default%20administrator%20account.PNG">
+<p>on administrator account you install the softwares you want</p>
+<p>now i show you the control panel before i install any softwares</p>
+<p>search control panel on the search bar and click control panel it open a window called control pannell</p>
+<p>on control panel you see programs and under it you see uninstall a program click on "uninstall a program"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fcontrol%20panel%20befor%20i%20install%20any%20softwares.PNG">
+<p>i install some softwares and show you the control panel after i install any softwares</p>
+
+
+
+<p></p>
 
 </body>
 </html>
