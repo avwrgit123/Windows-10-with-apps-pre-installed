@@ -4,6 +4,7 @@ Windows-10-with-apps-pre-installed
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- -->
 </head>
 <body>
 <p>In this guide we install windows 10 with apps pre installed of your choose</p>
@@ -56,7 +57,7 @@ Windows-10-with-apps-pre-installed
 <p>then the tool will create your ISO file for you</p>
 <p>guide: <a href="https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705">guide</a></p>
 <p>when the creation of windows iso is finish you see a windows.iso file in the location you choose</p>
-<p>3.create a virtual machine</p>
+<p>3. Create a virtual machine</p>
 <h2>create a virtual machine</h2>
 <p>start virtual box 2 clicks on virualbox shortcut</p>
 <img src="./pictures/‏‏virtual box home screen.PNG">
@@ -88,7 +89,7 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fvirtual%20box%20choose%20from%20a%20disk%20file%20option.PNG">
 <p>now the blue disk name change from empty to windows.iso</p>
 <p>then press "ok" on button of the setting menu -it save you'r changes and exit the setting menu</p>
-<p>4.install windows 10 on virtual box machine</p>
+<p>4. Install windows 10 on virtual box machine</p>
 <h2>install windows 10 on virtual box machine</h2>
 <p>on the main menu click 2 times on the machine or click 1 times on the machine and click start</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fvirtual%20box%20start%20the%20machine.PNG">
