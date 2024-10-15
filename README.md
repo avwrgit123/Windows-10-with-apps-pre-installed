@@ -138,8 +138,8 @@ in the version choose windows 10 then click next</p>
 <p>8. after this turn off the machine</p>
 <p>now turn off the machine press x in the windows of the machine then open a menu mark "power off the machine" and press "ok"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fpower%20off%20windows%2010%20machine.PNG">
-<p>9. letss add another hdd to the machine</p>
-<h2>dd another hdd to the machine</h2>
+<p>9. let's add another hdd to the machine</p>
+<h2>add another hdd to the machine</h2>
 <p>do this when the machine is off</p>
 <p>go to setting of the machine to storage press right click on the mouse on "controller: sata" choose hard disk then press left click on the mouse</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/controller%20sata%20choose%20hard%20disk.PNG">
@@ -153,6 +153,13 @@ in the version choose windows 10 then click next</p>
 <p>inside storage you see the new hdd you created</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20hdd%20success.PNG">
 <p>press "ok" in buton of the setting menu to save you'r changes</p>
+<p>10. add HBCD_PE_x64.iso that you download to the cd choose the location the file located</p>
+<p>11. run the machine</p>
+<p>12. you see on the screen a massage: press any key to boot from cd or dvd</p>
+<p>it appears for a few seconds</p>
+<p>press any key on the keyboard</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/press%20any%20key%20to%20boot%20from%20cd%20or%20dvd%20massage.PNG">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/press%20any%20key%20to%20boot%20from%20cd%20or%20dvd%20massage2.PNG">
 
 
 
