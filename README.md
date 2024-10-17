@@ -231,6 +231,18 @@ in the version choose windows 10 then click next</p>
 <p>you can sometimes see it as install.esd</p>
 <p>install.wim location: sources/install.wim</p>
 <p>install.esd location: sources/install.esd</p>
+<p>on the top of the window has remove batton and add batton</p>
+<p>remove batton remove file from image</p>
+<p>add batton add file to image</p>
+<p>click on install.esd and remove it click on remove batton and click</p>
+<img src="">
+<p>click on add batton and click on install.wim -go to it location and click on it  and click add</p>
+<img src="">
+<p>after this click "next</p>
+<p>a windows open on destination image file on destination image file name give a name to the file</p>
+<p>on destination image file on select image file image select standard iso image</p>
+<img src="">
+<p></p>
 
 
 
