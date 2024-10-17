@@ -199,7 +199,7 @@ in the version choose windows 10 then click next</p>
 <p>now open a window</p>
 <h2>use Gimagex to capture windows 10 files</h2>
 <p>You create file.wim in windows it called install.wim</p>
-<p>i create the capture file in the new hdd i second hdd we created</p>
+<p>i create the capture file in the second hdd we created</p>
 <p>install.wim vs install.esd explained</p>
 <p>https://www.reddit.com/r/windows/comments/gtcdci/whats_the_difference_between_esd_and_wim_and/?rdt=51366</p>
 <p>https://windowsreport.com/convert-windows-11-install-wim-to-install-esd/#:~:text=The%20ESD%20%28Electronic%20Software%20Download%29%20file%20format%20uses,meaning%20you%20can%20update%2C%20add%2C%20or%20remove%20components.</p>
