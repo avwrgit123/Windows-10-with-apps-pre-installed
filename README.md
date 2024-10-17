@@ -217,8 +217,8 @@ in the version choose windows 10 then click next</p>
 <p>you can check see the file.wim</p>
 <p>exit windows pe</p>
 <p>copy the file.wim to you'r pc vie a usb</p>
-<p>17. create new iso with apss</p>
-<h2>create new iso with apss</h2>
+<p>17. create new iso with apps</p>
+<h2>create new iso with apps</h2>
 <p>run imageburn click 2 times on imageburn</p>
 <p></p>
 
