@@ -211,8 +211,16 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/use%20Gimagex%20software.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/Gimagex%20capture%20prosses%20start.PNG">
 <p>if you want to cancel the catpure click abort batton</p>
-
-
+<p>when the prosses is finish click close batton</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/Gimagex%20capture%20prosses%20finish.PNG">
+<p>exit the Gimagex.exe</p>
+<p>you can check see the file.wim</p>
+<p>exit windows pe</p>
+<p>copy the file.wim to you'r pc vie a usb</p>
+<p>17. create new iso with apss</p>
+<h2>create new iso with apss</h2>
+<p>run imageburn click 2 times on imageburn</p>
+<p></p>
 
 
 
