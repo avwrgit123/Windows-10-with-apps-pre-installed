@@ -251,7 +251,7 @@ in the version choose windows 10 then click next</p>
 <p>when it finish click "exit"</p>
 <p>now try to check the custom windows iso you creates</p>
 <p>on the vm install windows with your custom iso</p>
-<p>if ti work then you can burn it to a usb hdd and install this windows iso on a pc you choose</p>
+<p>if it work then you can burn it to a usb hdd and install this windows iso on a pc you choose</p>
 <h2>software to burn windows iso to hdd usb</h2>
 <p>rufus <a href="https://rufus.ie/en/">rufus</a></p>
 <p>giude <a href="https://www.wintips.org/how-to-burn-transfer-windows-10-iso-to-usb-using-rufus/">giude</a></p>
