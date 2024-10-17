@@ -224,9 +224,9 @@ in the version choose windows 10 then click next</p>
 <p>a window open then click on option "edit image file"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20windows%20open.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20option%20edit%20image%20file.PNG">
-<p>a windows open ask you to select image file to edit</p>
+<p>a window open ask you to select image file to edit</p>
 <p>click on the folder and choose the iso file</p>
-<img src="">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20select%20an%20image%20file.PNG">
 <p>a windows open go to location of the install.wim</p>
 <p>you can sometimes see it as install.esd</p>
 <p>install.wim location: sources/install.wim</p>
@@ -235,13 +235,14 @@ in the version choose windows 10 then click next</p>
 <p>remove batton remove file from image</p>
 <p>add batton add file to image</p>
 <p>click on install.esd and remove it click on remove batton and click</p>
-<img src="">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/install.esd.PNG">
 <p>click on add batton and click on install.wim -go to it location and click on it  and click add</p>
-<img src="">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20install.wim.PNG">
 <p>after this click "next</p>
-<p>a windows open on destination image file on destination image file name give a name to the file</p>
+<p>a window open on destination image file on destination image file name give a name to the file</p>
 <p>on destination image file on select image file image select standard iso image</p>
-<img src="">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/start%20create%20new%20iso%20imge.PNG">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/finish%20create%20new%20iso%20imge.PNG">
 <p></p>
 
 
