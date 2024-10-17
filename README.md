@@ -30,15 +30,15 @@ Windows-10-with-apps-pre-installed
 <p>Using dism command guide youtube: https://www.youtube.com/watch?v=-tIO4B8q8sk</p>
 <h2>Edit iso</h2>
 <p>Imgburn  <a href="https://www.imgburn.com/index.php?act=download">Imgburn</a></p>
-<p>Poweriso <a href="https://www.poweriso.com/download.htm">poweriso</a></p>
+<p>Poweriso <a href="https://www.poweriso.com/download.htm">poweriso</a></p
+<p>anyburn <a href="https://www.anyburn.com/download.php">anyburn</a></p>
 <h2>Extract</h2>
 <p>7zip <a href="https://www.7-zip.org/download.html">7zip</a></p>
 <p>winrar <a href="https://www.win-rar.com/download.html?&L=0">winrar</a></p>
- 
 <p>I using virtualbox, windows 10 x64, hirens boot cd, Gimagex, Imgburn</p>
 <p>I want to install winrar 7zip office for example</p>
 <p>This guide create custom windows 10 on windows os</p>
-<p>1. Download and Install virtualbox and Imgburn on your pc</p>
+<p>1. Download and Install virtualbox and anyburn on your pc</p>
 <p>2. Download Gimagex and windows 10 iso</p>
 <p>Extract Gimagex put the exe file in usb using 7zip or winrar</p>
 
@@ -219,9 +219,10 @@ in the version choose windows 10 then click next</p>
 <p>copy the file.wim to you'r pc vie a usb</p>
 <p>17. create new iso with apps</p>
 <h2>create new iso with apps</h2>
-<p>run imageburn click 2 times on imageburn</p>
-<p></p>
-
+<p>run anyburn click 2 times on imageburn</p>
+<p>a window open then click on option "edit image file"</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20windows%20open.PNG">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20option%20edit%20image%20file.PNG"
 
 
 
