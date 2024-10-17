@@ -200,6 +200,7 @@ in the version choose windows 10 then click next</p>
 <h2>use Gimagex to capture windows 10 files</h2>
 <p>You create file.wim in windows it called install.wim</p>
 <p>i create the capture file in the second hdd we created</p>
+<p>you can sometimes see install.wim as install.esd</p>
 <p>install.wim vs install.esd explained</p>
 <p>https://www.reddit.com/r/windows/comments/gtcdci/whats_the_difference_between_esd_and_wim_and/?rdt=51366</p>
 <p>https://windowsreport.com/convert-windows-11-install-wim-to-install-esd/#:~:text=The%20ESD%20%28Electronic%20Software%20Download%29%20file%20format%20uses,meaning%20you%20can%20update%2C%20add%2C%20or%20remove%20components.</p>
@@ -222,7 +223,14 @@ in the version choose windows 10 then click next</p>
 <p>run anyburn click 2 times on imageburn</p>
 <p>a window open then click on option "edit image file"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20windows%20open.PNG">
-<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20option%20edit%20image%20file.PNG"
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20option%20edit%20image%20file.PNG">
+<p>a windows open ask you to select image file to edit</p>
+<p>click on the folder and choose the iso file</p>
+<img src="">
+<p>a windows open go to location of the install.wim</p>
+<p>you can sometimes see it as install.esd</p>
+<p>install.wim location: sources/install.wim</p>
+<p>install.esd location: sources/install.esd</p>
 
 
 
