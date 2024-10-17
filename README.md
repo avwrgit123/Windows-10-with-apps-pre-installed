@@ -249,11 +249,12 @@ in the version choose windows 10 then click next</p>
 <p>if ti work then you can burn it to a usb hdd and install this windows iso on a pc you choose</p>
 <h2>software to burn windows iso to hdd usb</h2>
 <p>rufus <a href="https://rufus.ie/en/">rufus</a></p>
-<p>easy2boot<a href="https://www.fosshub.com/Easy2Boot.html?dwl=Easy2Boot_v2.20.exe">easy2boot</a></p>
+<p>giude <a href"https://www.wintips.org/how-to-burn-transfer-windows-10-iso-to-usb-using-rufus/">giude</a></p>
+<p>easy2boot <a href="https://www.fosshub.com/Easy2Boot.html?dwl=Easy2Boot_v2.20.exe">easy2boot</a></p>
 <p>burn easy2boot on usb hdd when go to location: D:\_ISO\WINDOWS\WIN10 and copy the custom windows iso to this folder</p>
-<p>D is my usb hdd leter yours can be diffrent</p>
+<p>D is my usb hdd leter yours can be different</p>
 <p>ventoy <a href="https://www.ventoy.net/en/download.html">ventoy</a></p>
 <p>download ventoy.zip extract the files then burn the ventoy on on usb hdd when go to location: D: and copy the custom windows iso to this folder</p>
-<p>D is my usb hdd leter yours can be diffrent</p>
+<p>D is my usb hdd leter yours can be different</p>
 </body>
 </html>
