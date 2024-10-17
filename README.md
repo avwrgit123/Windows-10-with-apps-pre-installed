@@ -22,6 +22,7 @@ Windows-10-with-apps-pre-installed
 <p>windows 10 <a href="https://www.microsoft.com/en-us/software-download/windows10?msockid=017162c851b66f9e00e271f850266e87">windows 10</a></p>
 <h2>windows pe</h2>
 <p>hirens boot cd <a href="https://www.hirensbootcd.org/download/">hirens boot cd</a></p>
+<p>WinPE10 8 Sergei Strelec <a href="https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/241-winpe-11-10-8-sergei-strelec-x86x64native-x86-20240920-english-version.html">WinPE10 8 Sergei Strelec</a></p>
 <h2>Capture windows with apps image</h2>
 <p>Gimagex <a href="https://gimagex.software.informer.com/2.0/">Gimagex</a></p>
 <p>ImageX <a href="https://wimlib.net/downloads/index.html">ImageX</a></p>
@@ -154,7 +155,8 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20hdd%20success.PNG">
 <p>press "ok" in buton of the setting menu to save you'r changes</p>
 <p>10. add windows pe that you download to the cd choose the location the file located</p>
-<p>the windows pe called HBCD_PE_x64.iso</p>
+<p>the windows pe i download called HBCD_PE_x64.iso</p>
+<p>yours may be different</p>
 <p>11. run the machine</p>
 <p>12. you see on the screen a massage: press any key to boot from cd or dvd</p>
 <p>it appears for a few seconds</p>
