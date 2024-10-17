@@ -201,7 +201,7 @@ in the version choose windows 10 then click next</p>
 <p>install.esd file is a compressed and encrypted file that contains a full copy of the Windows operating system in a protecting container</p>
 <p>https://www.wintips.org/how-to-extract-install-esd-to-install-wim-windows-10-8/#:~:text=The%20install.esd%20file%20is%20a%20compressed%20and%20encrypted,switch%20to%20repair%20Windows%2010%20or%20Windows%208%2F8.1.</p>
 <p>16. 2 click on Gimagex.exe</p>
-<p>now open a window</p>
+<p>now a window opened</p>
 <h2>use Gimagex to capture windows 10 files</h2>
 <p>You create file.wim in windows it called install.wim</p>
 <p>i create the capture file in the second hdd we created</p>
