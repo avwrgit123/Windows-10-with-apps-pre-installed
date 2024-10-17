@@ -207,8 +207,9 @@ in the version choose windows 10 then click next</p>
 <p>capture file extension is .wim</p>
 <p>on capture tag in the option tag mark boot, verify</p>
 <p>then click on create batton - it create the file.wim</p>
-<img src="">
-<img src="">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/use%20Gimagex%20software.PNG">
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/Gimagex%20capture%20prosses%20start.PNG">
+
 
 
 
