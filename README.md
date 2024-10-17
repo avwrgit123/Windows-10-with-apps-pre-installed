@@ -195,17 +195,20 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/after%20active%20the%20hdd%20success.PNG">
 <p>you can exit disk management</p>
 <p>i copy Gimagex to the new hdd we created</p>
-
-
-
-
-
-
-
-
-
-
-
+<p>16. 2 click on Gimagex.exe</p>
+<p>now open a window</p>
+<h2>use Gimagex to capture windows 10 files</h2>
+<p>You create file.wim in windows it called install.wim</p>
+<p>install.wim vs install.esd explained</p>
+<p>https://www.reddit.com/r/windows/comments/gtcdci/whats_the_difference_between_esd_and_wim_and/?rdt=51366</p>
+<p>https://windowsreport.com/convert-windows-11-install-wim-to-install-esd/#:~:text=The%20ESD%20%28Electronic%20Software%20Download%29%20file%20format%20uses,meaning%20you%20can%20update%2C%20add%2C%20or%20remove%20components.</p>
+<p>on capture tag choose a source click browse choose what hdd you want to capture</p>
+<p>on capture tag choose a destination click browse choose where to save the capture file and give it a name</p>
+<p>capture file extension is .wim</p>
+<p>on capture tag in the option tag mark boot, verify</p>
+<p>then click on create batton - it create the file.wim</p>
+<img src="">
+<img src="">
 
 
 
