@@ -209,7 +209,7 @@ in the version choose windows 10 then click next</p>
 <p>then click on create batton - it create the file.wim</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/use%20Gimagex%20software.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/Gimagex%20capture%20prosses%20start.PNG">
-
+<p>if you want to cancel the catpure click abort batton</p>
 
 
 
