@@ -87,7 +87,7 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8Fvirtual%20box%20boot%20order%E2%80%8F%E2%80%8F.PNG">
 <p>then go to storage</p>
 <p>click on the blue disk name empty then click the blue disk from the right</p>
-<p>then choose option 2 "choose from a disk file" from the options menu go to the location of windows iso and choose windows iso and fress "ok"</p>
+<p>then choose option 2 "choose from a disk file" from the options menu go to the location of windows iso and choose windows iso and press "ok"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fvirtual%20box%20choose%20from%20a%20disk%20file%20option.PNG">
 <p>now the blue disk name change from empty to windows.iso</p>
 <p>then press "ok" on button of the setting menu -it save you'r changes and exit the setting menu</p>
