@@ -243,9 +243,17 @@ in the version choose windows 10 then click next</p>
 <p>on destination image file on select image file image select standard iso image</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/start%20create%20new%20iso%20imge.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/finish%20create%20new%20iso%20imge.PNG">
-<p></p>
-
-
-
+<p>when it finish click "exit"</p>
+<p>now try to check the custom windows iso you creates</p>
+<p>on the vm install windows with your custom iso</p>
+<p>if ti work then you can burn it to a usb hdd and install this windows iso on a pc you choose</p>
+<h2>software to burn windows iso to hdd usb</h2>
+<p>rufus <a href="https://rufus.ie/en/">rufus</a></p>
+<p>easy2boot<a href="https://www.fosshub.com/Easy2Boot.html?dwl=Easy2Boot_v2.20.exe">easy2boot</a></p>
+<p>burn easy2boot on usb hdd when go to location: D:\_ISO\WINDOWS\WIN10 and copy the custom windows iso to this folder</p>
+<p>D is my usb hdd leter yours can be diffrent</p>
+<p>ventoy <a href="https://www.ventoy.net/en/download.html">ventoy</a></p>
+<p>download ventoy.zip extract the files then burn the ventoy on on usb hdd when go to location: D: and copy the custom windows iso to this folder</p>
+<p>D is my usb hdd leter yours can be diffrent</p>
 </body>
 </html>
