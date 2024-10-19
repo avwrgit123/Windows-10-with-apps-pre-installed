@@ -240,7 +240,7 @@ in the version choose windows 10 then click next</p>
 <p>on the top of the window has remove batton and add batton</p>
 <p>remove batton remove file from image</p>
 <p>add batton add file to image</p>
-<p>click on install.esd and remove it click on remove batton and click</p>
+<p>click on install.esd and remove it click on remove batton</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/install.esd.PNG">
 <p>click on add batton and click on install.wim -go to it location and click on it  and click add</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20install.wim.PNG">
