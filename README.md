@@ -213,6 +213,7 @@ in the version choose windows 10 then click next</p>
 <p>on capture tag choose a source click browse choose what hdd you want to capture</p>
 <p>on capture tag choose a destination click browse choose where to save the capture file and give it a name</p>
 <p>capture file extension is .wim</p>
+<p>on capture tag on name give a name to win file</p>
 <p>on capture tag in the option tag mark boot, verify</p>
 <p>then click on create batton - it create the file.wim</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/use%20Gimagex%20software.PNG">
@@ -247,7 +248,7 @@ in the version choose windows 10 then click next</p>
 <p>after this click "next</p>
 <p>a window open on destination image file on destination image file name give a name to the file</p>
 <p>on destination image file on select image file image select standard iso image then click "create now" -it start to create the iso</p>
-<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/create%20new%20iso%20imge.PNG"
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/create%20new%20iso%20imge.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/start%20create%20new%20iso%20imge.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/finish%20create%20new%20iso%20imge.PNG">
 <p>when it finish click "exit"</p>
