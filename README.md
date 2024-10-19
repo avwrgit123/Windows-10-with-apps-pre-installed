@@ -25,6 +25,7 @@ Windows-10-with-apps-pre-installed
 <p>WinPE10 8 Sergei Strelec <a href="https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/241-winpe-11-10-8-sergei-strelec-x86x64native-x86-20240920-english-version.html">WinPE10 8 Sergei Strelec</a></p>
 <h2>Capture windows with apps image</h2>
 <p>Gimagex <a href="https://gimagex.software.informer.com/2.0/">Gimagex</a></p>
+<p>Gimagex from video <a href="https://www.autoitconsulting.com/site/software/gimagex/">Gimagex</a></p>
 <p>ImageX <a href="https://wimlib.net/downloads/index.html">ImageX</a></p>
 <p>Dism use command: dism.exe /capture-image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:win10apps /compress:max</p>
 <p>Using dism command guide youtube: https://www.youtube.com/watch?v=-tIO4B8q8sk</p>
