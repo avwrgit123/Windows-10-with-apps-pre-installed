@@ -231,7 +231,7 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20windows%20open.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20option%20edit%20image%20file.PNG">
 <p>a window open ask you to select image file to edit</p>
-<p>click on the folder and choose the iso file</p>
+<p>click on the folder and choose the iso file then click "next"</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/anyburn%20select%20an%20image%20file.PNG">
 <p>a windows open go to location of the install.wim</p>
 <p>you can sometimes see it as install.esd</p>
