@@ -246,7 +246,8 @@ in the version choose windows 10 then click next</p>
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/add%20install.wim.PNG">
 <p>after this click "next</p>
 <p>a window open on destination image file on destination image file name give a name to the file</p>
-<p>on destination image file on select image file image select standard iso image</p>
+<p>on destination image file on select image file image select standard iso image then click "create now" -it start to create the iso</p>
+<img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/create%20new%20iso%20imge.PNG"
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/start%20create%20new%20iso%20imge.PNG">
 <img src="https://github.com/avwrgit123/Windows-10-with-apps-pre-installed/blob/main/pictures/finish%20create%20new%20iso%20imge.PNG">
 <p>when it finish click "exit"</p>
